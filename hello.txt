@@ -1,0 +1,11 @@
+# Test Repository
+This is my very first Git repo.
+Created as part of my software engineering tasks.
+Git helps developers track changes in code.
+It allows collaboration with teammates.
+Every file added here can be version controlled.
+Commits act like checkpoints in a project.
+Branches allow experimenting safely.
+Merging combines different lines of work.
+This repo marks the beginning of my journey.
+
