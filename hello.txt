@@ -6,9 +6,11 @@ This is my very
 
 Created as part of my
  software
- engineering tasks.
+ engineering
+ tasks.
 
-Git helps developers
+Git helps
+ developers
  track changes
  in code.
 
@@ -18,21 +20,25 @@ It allows
 
 Every file
  added here can
- be version controlled.
+ be version
+ controlled.
 
 Commits act like
  checkpoints
  in a project.
 
-Branches allow
+Branches
+ allow
  experimenting
  safely.
 
-Merging combines
+Merging
+ combines
  different
  lines of work.
 
-This repo marks the
+This repo
+ marks the
  beginning of
  my journey.
 
