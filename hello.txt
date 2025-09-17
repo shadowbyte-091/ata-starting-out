@@ -14,10 +14,6 @@ Git helps
  track changes
  in code.
 
-It allows
- collaboration
- with teammates.
-
 Every file
  added here can
  be version
@@ -40,5 +36,5 @@ Merging
 This repo
  marks the
  beginning of
- my journey.
+ my journey. i would love to be a software engineer ti build my own software
 
