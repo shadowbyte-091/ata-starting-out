@@ -1,0 +1,6 @@
+Commands I have Learnt
+ git init strt or creates a new repo
+ git log shows your commit history
+ git add it adds the file of folder to commit
+ git commit -m it commits the files while the "-m" mkaes 
+the commit automatic it saves the commit with a name like saving a screenshot with a name to remember
